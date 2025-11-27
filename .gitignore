@@ -1,3 +1,5 @@
 # Ignore all .cph folders
 
 *.cph
+
+test.ipynb
