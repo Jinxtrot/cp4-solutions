@@ -1,7 +1,7 @@
 
 # CP4 Problem Solutions Repository 🚀
 
-Welcome to the **CP4 Problem Solutions Repository**! This repository serves as a personal documentation hub for solving problems inspired by the book **"Competitive Programming 4" (CP4)**. 
+Welcome to the **CP4 Problem Solutions Repository**! This repository serves as a personal documentation hub for solving problems inspired by the book **"Competitive Programming 4" (CP4)** and **LeetCode** challenges.
 
 Every solution included here represents not only a step forward in improving my competitive programming skills but also my journey in tackling challenging problems with creative and efficient solutions. 🧠💡
 
@@ -18,7 +18,6 @@ The main goal of this repository is to:
 The **CP4** book is a treasure trove of competitive programming problems and techniques. By working through its exercises, I aim to:
 
 - Build a strong foundation in algorithm design and problem-solving.
-- Sharpen my coding skills for next year at ICPC 2025 contest.
 - Explore advanced topics in data structures, graph theory, and computational geometry.
 
 ## Repository Structure 📂
@@ -36,7 +35,6 @@ Each folder contains:
 1. **Problem Statement**: A clear description of the problem being solved.
 2. **Solution Code**: Well-documented source code with comments.
 3. **Explanation**: A detailed breakdown of the solution approach.
-4. **Test Cases**: Sample inputs and outputs for verification.
 
 ## How to Use This Repository 🛠️
 
